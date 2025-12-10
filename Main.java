@@ -5,7 +5,6 @@ class Main{
 
         System.out.print("Enter the amount you want to Invest Monthly: ");
         double principalAmt = input.nextDouble();
-        //amount entering
 
         System.out.print("How many Years you want to invest: ");
         double years = input.nextDouble();
